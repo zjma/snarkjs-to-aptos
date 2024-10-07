@@ -1,0 +1,10 @@
+[package]
+name = "GenericGroth16"
+version = "0.0.0"
+
+[addresses]
+groth16_example= "0xcafe"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "main" }
+
