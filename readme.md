@@ -14,7 +14,7 @@ export OUT_DIR=./example_1
 cargo run
 ```
 
-The example module should contain a test that successfully verifies your Groth16 proof and your Groth16 verification key, if they match.
+The example module should contain a test that successfully verifies your Groth16 proof with your Groth16 verification key, if they match.
 ```bash
 cd example_1
 aptos move test
