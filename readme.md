@@ -1,4 +1,4 @@
-This tool helps you convert snarkjs outputs (verification keys, proofs) to representations supported by Aptos.
+This tool helps you convert snarkjs outputs (verification keys, proofs) to Aptos representations.
 
 ## How to use
 Clone this repo and cd into the repo root.
